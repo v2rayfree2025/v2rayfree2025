@@ -73,8 +73,8 @@
 - 标题:2025年1月21号的免费V2Ray节点共享，支持 Clash、V2rayN等软件！4个订阅地址，10条免费高速节点，秒速接入，永久免费的VPN，让你的网络体验更方便，更快速，更稳定！Shadowsocks，Trojan机场，网络技术，翻墙，免费代理，终生免费代理  |  胖猫想分享 
 - 内容: 
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=0128d01a6ce9bdaf555d9fc7a16a6952
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=6990ea0209d88fd53b395dc8d555d3d6
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=7c6a904930e24155a93294c7fbbf16f3
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=6990ea0209d88fd53b395dc8d555d3d6
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=f3b611e8413c49991ed7a2d49a264c2e 
-- 更新时间: 2025年01月21日21点53分 
+- 更新时间: 2025年01月21日22点35分 
 结束
