@@ -72,9 +72,9 @@
 - 域名: ['https://pmxfx.xyz'] 
 - 标题:2025年1月24日共享免费V2Ray节点！四个订阅链接，十个快速免费节点，支持Clash、V2rayN等热门软件，即刻连接高速服务器永久免费VPN服务，体验科学上网全新感觉，轻松获取高品质代理，免费翻墙梯子，速度稳定！Shadowsocks，Trojan服务商，科学上网免费节点，免费免费梯子，抠梯子，免费代理，永久免费代理  |  胖猫想分享 
 - 内容: 
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=3f45fa7d61f97108a81ebdeda65a3095
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=5bf7e3dc13b3a46d6824de01d75cce8b
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=e89dcdae5d0673e2e93a318c600ffd8b
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=b0987414e67e66b6719ee10cc44fd57f 
-- 更新时间: 2025年01月28日13点31分 
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=3f45fa7d61f97108a81ebdeda65a3095
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=b0987414e67e66b6719ee10cc44fd57f
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=5bf7e3dc13b3a46d6824de01d75cce8b 
+- 更新时间: 2025年01月28日13点53分 
 结束
