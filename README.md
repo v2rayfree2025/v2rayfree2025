@@ -70,11 +70,11 @@
 
 - 免费节点分享 
 - 域名: ['https://pmxfx.xyz'] 
-- 标题:2025年1月24日共享免费V2Ray节点！四个订阅链接，十个快速免费节点，支持Clash、V2rayN等热门软件，即刻连接高速服务器永久免费VPN服务，体验科学上网全新感觉，轻松获取高品质代理，免费翻墙梯子，速度稳定！Shadowsocks，Trojan服务商，科学上网免费节点，免费免费梯子，抠梯子，免费代理，永久免费代理  |  胖猫想分享 
+- 标题:2025年1月30号的免费V2Ray节点共享，支持 Clash、V2rayN等软件！4个订阅地址，10条免费高速节点，秒速接入，永久免费的VPN，让你的网络体验更方便，更快速，更稳定！Shadowsocks，Trojan机场，网络技术，翻墙，免费代理，终生免费代理  |  胖猫想分享 
 - 内容: 
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=3f45fa7d61f97108a81ebdeda65a3095
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=b0987414e67e66b6719ee10cc44fd57f
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=e89dcdae5d0673e2e93a318c600ffd8b
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=5bf7e3dc13b3a46d6824de01d75cce8b 
-- 更新时间: 2025年01月30日16点55分 
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=05f070a3244eca874af96fa6035f97bc
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=1b4945179069fee75f7f17638103a251
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=f366d3c7e2cf72cf265280026f5f5ef2
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=3850fdcc8b1d9fdeacfd54546009b2c7 
+- 更新时间: 2025年01月30日17点23分 
 结束
