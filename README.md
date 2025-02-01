@@ -72,9 +72,9 @@
 - 域名: ['https://pmxfx.xyz'] 
 - 标题:2025年2月1号的免费V2Ray节点共享，支持 Clash、V2rayN等软件！4个订阅地址，10条免费高速节点，秒速接入，永久免费的VPN，让你的网络体验更方便，更快速，更稳定！Shadowsocks，Trojan机场，网络技术，翻墙，免费代理，终生免费代理  |  胖猫想分享 
 - 内容: 
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=73cd34c488f4db14b3c6eb6bab4fe68c
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=c4ba67644ec65429d253268db08b6410
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=4654e17d1e04047aebb6f0d56af8e705
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=d3af73265f68264bad2d4da73e7bd3f4 
-- 更新时间: 2025年02月02日05点38分 
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=d3af73265f68264bad2d4da73e7bd3f4
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=73cd34c488f4db14b3c6eb6bab4fe68c 
+- 更新时间: 2025年02月02日05点53分 
 结束
