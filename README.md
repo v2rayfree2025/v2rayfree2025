@@ -70,16 +70,16 @@
 
 - 免费节点分享 
 - 域名: ['https://pmxfx.xyz'] 
-- 标题:2025年2月6日共享免费V2Ray节点！四个订阅链接，十个快速免费节点，支持Clash、V2rayN等热门软件，即刻连接高速服务器永久免费VPN服务，体验科学上网全新感觉，轻松获取高品质代理，免费翻墙梯子，速度稳定！Shadowsocks，Trojan服务商，科学上网免费节点，免费免费梯子，抠梯子，免费代理，永久免费代理  |  胖猫想分享 
+- 标题:2025年2月8日共享免费V2Ray节点！四个订阅链接，十个快速免费节点，支持Clash、V2rayN等热门软件，即刻连接高速服务器永久免费VPN服务，体验科学上网全新感觉，轻松获取高品质代理，免费翻墙梯子，速度稳定！Shadowsocks，Trojan服务商，科学上网免费节点，免费免费梯子，抠梯子，免费代理，永久免费代理  |  胖猫想分享 
 - 内容: 
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=b197b096979f2a6e8b77a03d0329eddc
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=7222e3a5fb026c9e92aa82740e399951
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=dd519e489a518b34842aabd1624f0c20
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=bac1dd2f67ed6fa16a225be5676f2016
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=c0084642ea79961ded783d586cc61ab7
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=f9b55df905c85ec43d49668142b11c11
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=317928cc1e7e00e9158b9ac347e88288
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=7d1aed30010106c33e95dca19a7d35f5
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=f742ff178d3ef4e54fff72599f4799af 
-- 更新时间: 2025年02月07日07点53分 
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=541bf1bd5c088205809255c629ae91a3
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=3bf7aac6552f21c5bbe87ee56041b829
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=34a6c3fb3f1503a1ba9e55fccc5f61e2
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=d2a6dbac1843a3c1675754a40245a684
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=79ad778e1b7fed2439ba48193a0dc059
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=aa86de2c9b66ba91d76be4534b367b47
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=d143b11d26a874957ee216d81cf20d6b
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=27d458b33dc85d90c90003d7ff9560da
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=d6d5467955ac169b26e2589a26569bfe 
+- 更新时间: 2025年02月07日09点45分 
 结束
